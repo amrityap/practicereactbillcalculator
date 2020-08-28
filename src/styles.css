@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#listDetails {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.dataList {
+  padding: 20px 0;
+}
+
+.amount,
+.btn-outline-primary {
+  margin-right: 5px;
+}
+
+.formWrapper {
+  width: 768px;
+}
+
+.productForm {
+  margin: 0 auto;
+  width: 300px;
+}
